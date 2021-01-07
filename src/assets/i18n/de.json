@@ -557,6 +557,10 @@
         "westermann-blue": {
           "name": "Westermann Blau",
           "description": "Standard der Westermann Gruppe"
+        },
+        "PhilipSchwarz": {
+          "name": "PhilipSchwarz",
+          "description": "PhilipSchwarz"
         }
       }
     },

@@ -1,5 +1,5 @@
 {
-  "Material": {
+  "PhilipSchwarz": {
     "quizNameRowStyle": {
       "fg": "#FFFFFF",
       "bg": "#00584e"
@@ -260,3 +260,5 @@
     }
   }
 }
+
+

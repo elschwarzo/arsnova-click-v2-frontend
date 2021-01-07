@@ -8,5 +8,6 @@ export enum QuizTheme {
   //  MaterialHope            = 'Material-hope', //
   //  MaterialBlue            = 'Material-blue', //
   //  SpiritualPurple         = 'spiritual-purple', //
-  WestermannBlue          = 'westermann-blue', //
+  WestermannBlue          = 'westermann-blue',
+  PhilipSchwarz           = 'PhilipSchwarz', //
 }
